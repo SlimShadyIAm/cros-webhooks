@@ -1,0 +1,26 @@
+{
+    "username": "r/ChromeOS Moderators",
+    "avatar_url": "https://images-ext-1.discordapp.net/external/xgkE4cVIvPArMJdCC5O3g6W86I_srzassomHLtXfKqo/https/cdn.discordapp.com/icons/253908290105376768/f4e373e1baefc67332e9da706619490b.jpg",
+    "embeds": [
+        {
+            "color": 16080171,
+            "fields": [
+                {
+                    "name": "Spore",
+                    "value": "Hey, I'm Jess and I'm just your average busy college student that likes to tinker.\nI joined Discord in March 2017 because my friend and I decided skype was stupid and we needed a different platform to talk on. As I said above, I like to tinker and I am also a robotics and tech enthusiast. Unfortunately I end up breaking everything around me whether it's software or hardware.\nI became a part of the Google Product Forums in 2016 and still try to help there as well as here on this Discord server when I get the chance. I love helping people with a passion, which is why I'm here! I'm also a moderator on r/ChromeOS.\nIn my freetime (If I get any) I like drawing, looking at Roombas to adopt, and playing various mobile games."
+                },
+        		{
+        			"name": "Location",
+        			"value": "Wisconsin"
+        		},
+                {
+                	"name": "Position",
+                	"value": "<@&370543697198317579> <@&253910938380533760>"
+                }
+            ],
+            "thumbnail": {
+                "url": "https://cdn.discordapp.com/attachments/351680754390007809/559162304072253450/image0.jpg"
+            }
+        }
+    ]
+}

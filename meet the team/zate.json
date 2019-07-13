@@ -1,0 +1,26 @@
+{
+    "username": "r/ChromeOS Moderators",
+    "avatar_url": "https://images-ext-1.discordapp.net/external/xgkE4cVIvPArMJdCC5O3g6W86I_srzassomHLtXfKqo/https/cdn.discordapp.com/icons/253908290105376768/f4e373e1baefc67332e9da706619490b.jpg",
+    "embeds": [
+        {
+            "color": 4359668,
+            "fields": [
+                {
+                    "name": "MrUrbanity",
+                    "value": "Hi I'm Zate.  I'm a husband and father of two almost high-school age kids who makes his living as a security leader. I've been using Discord for a while, to keep up with gaming and tech trends, chat with friends from older jobs and keep up with my two boys.  I am a huge Google fan, jumped right into the entire Google ecosystem from day one.  Gmail early adopter, Nexus One early adopter, ChromeOS early adopter and Crostini early adopter.  I am deep into security and the infosec community, I've worked on several AAA game titles and love gaming with my kids.  I love to woodwork, write code (mostly golang) and annoy my wife with my awesome humor.  I'm also a transplant to the US from Australia."
+                },
+            {
+              "name": "Location",
+              "value": "Austin, TX, USA"
+            },
+                {
+                  "name": "Position",
+                  "value": "<@&253910724936466434> <@&463699644757704714>"
+                }
+            ],
+            "thumbnail": {
+                "url": "https://cdn.discordapp.com/attachments/463463538313396244/556203562431152158/SPOILER_00100sPORTRAIT_00100_BURST20181222131330964_COVER.jpg"
+            }
+        }
+    ]
+}

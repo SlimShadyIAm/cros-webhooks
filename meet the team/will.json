@@ -1,0 +1,24 @@
+{
+    "username": "r/ChromeOS Moderators",
+    "avatar_url": "https://images-ext-1.discordapp.net/external/xgkE4cVIvPArMJdCC5O3g6W86I_srzassomHLtXfKqo/https/cdn.discordapp.com/icons/253908290105376768/f4e373e1baefc67332e9da706619490b.jpg",
+    "embeds": [
+        {
+          "title": "CBC - Will Landrieu",
+          "description": "Hi there, I'm Will! I am 16, a tech enthusiast, and just an ordinary high school student.\n\nI joined Discord back in January of 2017 when my friend invited me to his Minecraft chat (I know, kinda silly). In my free time, you can usually find me playing something on Xbox, chatting with friends, and answering questions on the Chromebook Help Community. I have come to meet many different people such as the Discord and Reddit staff here, content creators, game developers, and a couple of the people who made this thing (I miss Dabbit).\n\nI became a part of the Google Product Experts Program back in September of 2018. Through the program, I have gained experience with troubleshooting issues and helping users on the Help Community and Help Forum. I joined this server in December of 2017 back when I first joined the Top Contributor Program (That's what the PE program was called up until recently) when <@221682109146726401> had told me about it during a hangout. From that point on, I stuck to the community that grew there which I saw was entertaining to see grow.",
+            "color": 1023320,
+            "fields": [
+                {
+              "name": "Location",
+              "value": "Mid NJ, US"
+            },
+                {
+                  "name": "Position",
+                  "value": "<@&384722364174172160> <@&360487762484527116>"
+                }
+            ],
+            "thumbnail": {
+                "url": "https://cdn.discordapp.com/attachments/396364955500281876/555136224978010123/rcros-dis-mts.jpg"
+            }
+        }
+    ]
+}
