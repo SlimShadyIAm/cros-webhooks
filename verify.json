@@ -1,0 +1,14 @@
+{
+    "username": "r/ChromeOS Moderators",
+    "avatar_url": "https://images-ext-2.discordapp.net/external/wmjtyFn2_DbYGPaSuv4_wVmxVg8r-w6pV1yDsou5vwE/https/cdn.discordapp.com/avatars/551981270263922699/ea2bf4df769c834192ab878c0ad97ce7.png",
+    "embeds": [
+      {
+        "color": 1679711,
+        "description": "In order to gain access to the rest of the server, read the rules in <#530000121346129921>. To accept the rules, react to this message with a :white_check_mark: emoji by clicking on the icon under this message. If for some reason it doesn't work, contact the moderators by DM'ing <@551981270263922699> and we'll get it sorted for you.",
+        "footer": {
+            "icon_url": "https://images-ext-1.discordapp.net/external/Bo1_eDWOiXX2YZXFFp2Ud0UNMynSP49GipieDLhSpQk/https/cdn.discordapp.com/avatars/275813801792634880/319ba137f32942c5472ac23cdb979dc4.png?width=116&height=116",
+            "text": "Powered by https://zira.ovh, the best reaction roles bot out there!"
+          }
+      }
+    ]
+  }

@@ -1,0 +1,26 @@
+{
+    "username": "r/ChromeOS Moderators",
+    "avatar_url": "https://images-ext-2.discordapp.net/external/wmjtyFn2_DbYGPaSuv4_wVmxVg8r-w6pV1yDsou5vwE/https/cdn.discordapp.com/avatars/551981270263922699/ea2bf4df769c834192ab878c0ad97ce7.png",
+    "embeds": [
+        {
+            "color": 4359668,
+            "fields": [
+                {
+                    "name": "McScruff",
+                    "value": "Hi All, Im Scruff and latest Mod in here, I have a Lenovo 500e and use my chromebook for its great battery life, the ability to run Android and Linux applications.  I have been a Linux user for over 15 years and after many years distro hopping im all about workflow now.  In my day to day job I own my own pub so if in a conversation i go stop typing bare with me.  Im usually around just @ me if you need anything unless its a Saturday night then be prepared for unreadable answers.  In my free time i like to.... Whats free time?  Tattoos and beards are life without either you may be seen as normal"
+                },
+            {
+              "name": "Location",
+              "value": "Kent, England"
+            },
+                {
+                  "name": "Position",
+                  "value": "<@&253910724936466434>"
+                }
+            ],
+            "thumbnail": {
+                "url": "https://cdn.discordapp.com/attachments/562588429163036683/563395468365660160/me2.jpg"
+            }
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "username": "r/ChromeOS Moderators",
+    "avatar_url": "https://images-ext-2.discordapp.net/external/wmjtyFn2_DbYGPaSuv4_wVmxVg8r-w6pV1yDsou5vwE/https/cdn.discordapp.com/avatars/551981270263922699/ea2bf4df769c834192ab878c0ad97ce7.png",
+    "embeds": [
+        {
+            "color": 5016821,
+            "image": {
+                "url": "https://cdn.discordapp.com/attachments/451414078343348225/454938034283216896/r_chromeos_discord_server_logo.png"
+            }
+        },
+        {
+            "color": 5016821,
+            "description": "Hey there! Welcome to the r/ChromeOS Discord server! We’re excited that you’re excited to participate in our little community, but before any of that, the staff would like for you to keep a few rules in mind. \n \n *Note: In order to participate in the server, you* ***must*** *accept the rules. If you disagree with any of the rules, please leave the server. Scroll down to see how to accept the rules*"
+        },
+        {
+            "color": 1679711,
+            "image": {
+                "url": "https://cdn.discordapp.com/attachments/451414078343348225/454938198402138112/overview.png"
+            }
+        },
+        {
+            "color": 1679711,
+            "description": "The rules are very straightforward. We want to encourage a safe and nurturing environment that is enjoyable for all ChromeOS users and fans like ourselves. To achieve, this, all users need only to behave themselves by avoiding taking part in  the following: harassing other users, spamming, posting NSFW media and trolling. More detailed rules are laid out below."
+        },
+        {
+            "color": 14569797,
+            "image": {
+                "url": "https://cdn.discordapp.com/attachments/451414078343348225/454938236628762634/guidelines.png"
+            }
+        },
+        {
+            "color": 14569797,
+            "fields": [
+                {
+                    "name": "Rule 1",
+                    "value": "Any form of targeted harassment will not be tolerated in the server. This goes for discrimination based on race, gender, sexual preference, and so on and so forth."
+                },
+                {
+                    "name": "Rule 2",
+                    "value": "Spam, including but not to limited linespam, flooding the channel with messages in a short amount of time, emoji/ASCII spam (in nicknames as well), mass pinging, is not allowed. While any conversation is allowed in <#253908290105376768>, keep memes and other forms of shitposting in <#361064680996864010>. It’s also worth mentioning that mic spamming or “earraping” in the voice channels is also a punishable offense."
+                },
+                {
+                    "name": "Rule 3",
+                    "value": "Users may not invite bots, such as self bots or promotion/advertising spam bots into the server, no matter what they are used for. This is not only against the Discord Terms of Conditions but it is extremely annoying. If we find you to be botting, you will be banned immediately."
+                },
+                {
+                    "name": "Rule 4",
+                    "value": "The discussion of illegal activities is not allowed. Some examples that fall under this: directly linking to piracy sites, sharing someone’s intellectual property, discussing ways to crack games, or requesting other users to hack or DDoS your school/organization/employer."
+                },
+                {
+                    "name": "Rule 5",
+                    "value": "You may not discuss the circumvention of school/organization locks and firewalls."
+                },
+                {
+                    "name": "Rule 6",
+                    "value": "Absolutely no NSFW content is permitted anywhere in the server. This includes pornography, jumpscares, content related to animal cruelty and graphic/gore content."
+                },
+                {
+                    "name": "Rule 7",
+                    "value": "Glorifying and sharing content that glorifies or jokes about suicide/self-harm is not tolerated at all."
+                },
+                {
+                    "name": "Rule 8",
+                    "value": "We are an English speaking server. Please keep conversations in other languages at a minimum so that everyone can understand each other."
+                },
+                {
+                    "name": "Rule 9",
+                    "value": "Promoting your personal Discord server, YouTube channel or other social media platform is not permitted. Note that linking users to other servers where they can find some relevant information to the topic of conversation is okay."
+                },
+                {
+                    "name": "Rule 10",
+                    "value": "Alternate accounts are not allowed for any purpose. If you are found to have an alternate account in the server, it will be banned. (Note that ban evasion falls under this category)."
+                },
+                {
+                    "name": "Rule 11",
+                    "value": "Trolling or feigning idiocy in <#385358187513118721>, either when giving or receiving help will result in a punishment. This includes spamming <@&385360131631874048> and the other mentionable roles for no reason."
+                },
+        		{ 
+        			"name": "Note:",
+        			"value":  "Behavior that is perceived as trolling will be dealt with according to the severity\n\nIf you spot any serious infractions of the rules and no moderator seems to be active, please notify us by messaging <@551981270263922699>.\n\nModeration decisions are at the discretion of the moderator themself. All decisions are final and may not be contested."
+        		}
+            ]
+        },
+        {
+            "color": 14569797,
+            "description": "**To accept the rules as explained above, see <#543376772004053013>.**"
+        },
+        {
+            "color": 16432133,
+            "image": {
+                "url": "https://cdn.discordapp.com/attachments/451414078343348225/492380422916014080/partnered_servers.png"
+            }
+        },
+        {
+            "color": 16432133,
+            "description": "r/Google Discord server: https://discord.gg/Google\nr/Android Discord server: https://discord.gg/android\nr/Samsung Discord server: https://discord.gg/32GPURS\n(unoffical) r/Stadia Discord server: https://discord.gg/XqAgSP9\n\nWe're also partnered with the [r/Crostini](https://reddit.com/r/crostini), [r/Pixelbook](https://reddit.com/r/pixelbook) and [r/ChromebookGaming](https://reddit.com/r/chromebookgaming) moderators, who have decided to use r/ChromeOS's server as their Discord community."
+        }
+    ]
+}

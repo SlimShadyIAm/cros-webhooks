@@ -1,0 +1,15 @@
+{
+    "username": "Botty McBotface",
+    "avatar_url": "https://images-ext-1.discordapp.net/external/jH0h_qtNabgd13ayY8t6g-Bas_DmN8indWrPih9Fy6M/%3Fsize%3D128/https/cdn.discordapp.com/avatars/520047158104424488/2db46e21fb3adee7a550a9c01394adc2.png",
+    "embeds": [
+      {
+        "color": 7506394,
+        "title": "Helper role",
+        "description": "Are you technologically savvy and want to help out your fellow community members in <#385358187513118721>? Assign yourself the <@&385360131631874048> role. Users can ping this when they need urgent help and no one is responding. Click the :regional_indicator_h: emoji below to assign this to yourself.",
+        "footer": {
+            "icon_url": "https://images-ext-1.discordapp.net/external/Bo1_eDWOiXX2YZXFFp2Ud0UNMynSP49GipieDLhSpQk/https/cdn.discordapp.com/avatars/275813801792634880/319ba137f32942c5472ac23cdb979dc4.png?width=116&height=116",
+            "text": "Powered by https://zira.ovh, the best reaction roles bot out there!"
+          }
+      }
+    ]
+  }
