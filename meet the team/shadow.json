@@ -1,0 +1,26 @@
+{
+    "username": "r/ChromeOS Moderators",
+    "avatar_url": "https://images-ext-2.discordapp.net/external/wmjtyFn2_DbYGPaSuv4_wVmxVg8r-w6pV1yDsou5vwE/https/cdn.discordapp.com/avatars/551981270263922699/ea2bf4df769c834192ab878c0ad97ce7.png",
+    "embeds": [
+        {
+            "color": 1023320,
+            "fields": [
+                {
+                    "name": "ShadowRi5ing",
+                    "value": "I'm a true chromie. I purchased my first Chrome OS device back in 2013 and never looked back. From 2015-2017 I served as a product expert for chrome and recently started coding Chromium. I also love ramen. Not related, but ramen is good."
+                },
+                {
+                    "name": "Location",
+                    "value": "Pittsburgh, PA, USA"
+                },
+                {
+                    "name": "Position",
+                    "value": "<@&360487762484527116>"
+                }
+            ],
+            "thumbnail": {
+                "url": "https://cdn.discordapp.com/attachments/561368100252024842/561369836555337728/IMG_20190314_131446_01.jpg"
+            }
+        }
+    ]
+}
