@@ -78,7 +78,11 @@
         		{ 
         			"name": "Note:",
         			"value":  "Behavior that is perceived as trolling will be dealt with according to the severity\n\nIf you spot any serious infractions of the rules and no moderator seems to be active, please notify us by messaging <@551981270263922699>.\n\nModeration decisions are at the discretion of the moderator themself. All decisions are final and may not be contested."
-        		}
+        		},
+                {
+                    "name": "Rule 12",
+                    "value": "We don't allow giveaways, personal buying/selling posts, hardware swaps, surveys, etc. unless authorized by a moderator.  Linking to device sales (e.g., $300 off Pixelbook on the Google Store) is allowed as long as it's from a reputable source/seller. (This does not include eBay sellers with good reviews, since that still counts as a 'personal buying/selling' post.) Reputable sources would be the Google Store, Amazon, Best Buy, Newegg, etc."
+                }
             ]
         },
         {
