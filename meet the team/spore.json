@@ -1,6 +1,6 @@
 {
     "username": "r/ChromeOS Moderators",
-    "avatar_url": "spore.jpg",
+    "avatar_url": "https://slim.ovh/cros-webhooks/img/logo.png",
     "embeds": [
         {
             "color": 16080171,
@@ -19,7 +19,7 @@
                 }
             ],
             "thumbnail": {
-                "url": "https://cdn.discordapp.com/attachments/351680754390007809/559162304072253450/image0.jpg"
+                "url": "https://slim.ovh/cros-webhooks/img/spore.jpg"
             }
         }
     ]

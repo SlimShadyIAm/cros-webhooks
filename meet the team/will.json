@@ -1,6 +1,6 @@
 {
     "username": "r/ChromeOS Moderators",
-    "avatar_url": "https://github.com/SlimShadyIAm/cros-webhooks/blob/master/img/will.jpg",
+    "avatar_url": "https://slim.ovh/cros-webhooks/img/logo.png",
     "embeds": [
         {
           "title": "CBC - Will Landrieu",
@@ -17,7 +17,7 @@
                 }
             ],
             "thumbnail": {
-                "url": "https://cdn.discordapp.com/attachments/396364955500281876/555136224978010123/rcros-dis-mts.jpg"
+                "url": "https://slim.ovh/cros-webhooks/img/wwill.jpg"
             }
         }
     ]

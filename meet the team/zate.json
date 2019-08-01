@@ -1,6 +1,6 @@
 {
     "username": "r/ChromeOS Moderators",
-    "avatar_url": "https://github.com/SlimShadyIAm/cros-webhooks/blob/master/img/zate.jpg",
+    "avatar_url": "https://slim.ovh/cros-webhooks/img/logo.png",
     "embeds": [
         {
             "color": 1023320,
@@ -19,7 +19,7 @@
                 }
             ],
             "thumbnail": {
-                "url": "https://cdn.discordapp.com/attachments/463463538313396244/556203562431152158/SPOILER_00100sPORTRAIT_00100_BURST20181222131330964_COVER.jpg"
+                "url": "https://slim.ovh/cros-webhooks/img/zate.jpg"
             }
         }
     ]

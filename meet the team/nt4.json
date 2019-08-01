@@ -1,6 +1,6 @@
 {
     "username": "r/ChromeOS Moderators",
-    "avatar_url": "https://github.com/SlimShadyIAm/cros-webhooks/blob/master/img/nt4cats.jpg",
+    "avatar_url": "https://slim.ovh/cros-webhooks/img/logo.png",
     "embeds": [
         {
             "color": 4359668,
@@ -19,7 +19,7 @@
                 }
             ],
             "thumbnail": {
-                "url": "https://cdn.discordapp.com/attachments/507554481173692416/555570469730910209/DrewOnBeach.jpg"
+                "url": "https://slim.ovh/cros-webhooks/img/nt4cats.jpg"
             }
         }
     ]

@@ -1,6 +1,6 @@
 {
     "username": "r/ChromeOS Moderators",
-    "avatar_url": "https://github.com/SlimShadyIAm/cros-webhooks/blob/master/img/slim.jpeg",
+    "avatar_url": "https://github.com/SlimShadyIAm/cros-webhooks/raw/master/img/logo.png",
     "embeds": [
         {
             "color": 4359668,
@@ -19,7 +19,7 @@
                 }
             ],
             "thumbnail": {
-                "url": "https://images-ext-1.discordapp.net/external/fFDhETBCCRH2VFA5DaujxwNLPSltwK8NhtenM1KcGcA/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/109705860275539968/d1a43a5a8b3578fc5b33ec3d0c3fdebe.png"
+                "url": "https://slim.ovh/cros-webhooks/img/slim.jpeg"
             }
         }
     ]
