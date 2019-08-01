@@ -1,0 +1,26 @@
+{
+    "username": "r/ChromeOS Moderators",
+    "avatar_url": "https://images-ext-1.discordapp.net/external/DhNyox_ywvPRmHfHvcMlxbR9tFQKr6m-aovoWWTjFBg/%3Fsize%3D1024/https/cdn.discordapp.com/icons/253908290105376768/f62b39fbf1c7115c10a662754e8fcc21.webp",
+    "embeds": [
+        {
+            "color": 4359668,
+            "fields": [
+                {
+                    "name": "Skylar Taylor-Barrick",
+                    "value": "Hi! I'm Skylar, and I'm a front-end engineer and non-profit founder in the San Francisco Bay Area, CA.  \n\nI started using Discord as a way to chat with friends while gaming, and I've realized that the communities offered are an incredible resource.I started exploring Chrome OS as an alternative to macOS, and ended up loving it! It served as a gateway for me getting more into desktop linux.\n\nI currently run Kubuntu 19.04 on my Google Pixelbook, with a Chrome OS Dual Boot.\n\nIn my spare time, I binge an incredible amount of reality television, tinker with my smart home, and play with my cute dog, Panda (you can ask for pics)."
+                },
+            {
+              "name": "Location",
+              "value": "SF Bay Area, USA"
+            },
+                {
+                  "name": "Position",
+                  "value": "<@&253910724936466434>"
+                }
+            ],
+            "thumbnail": {
+                "url": "https://cdn.discordapp.com/attachments/585576585277472768/606239275905712134/skylar_profilephoto.jpg"
+            }
+        }
+    ]
+}
