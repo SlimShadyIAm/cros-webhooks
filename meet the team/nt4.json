@@ -1,26 +1,24 @@
 {
-    "username": "r/ChromeOS Moderators",
-    "avatar_url": "https://slim.ovh/cros-webhooks/img/logo.png",
-    "embeds": [
+  "username": "r/ChromeOS Moderators",
+  "avatar_url": "https://slim.ovh/cros-webhooks/img/logo.png",
+  "embeds": [
+    {
+      "title": "nt4cats",
+      "description": "Hello, I'm Drew. I'm a husband and father of two (one in college, one in high-school) who makes his living as a technology leader.  I first heard of Discord soon after I founded /r/Crostini.  We were looking for a platform we could use to provide live help to other people in the community who were learning about and making discoveries on Crostini.  My co-moderator <@102400513684819968> is a gamer and knew Discord well.  <@102400513684819968> reached out to the established /r/ChromeOS Discord admins and pitched the idea of partnering with them instead of going through the effort to stand up and administer our own server.  I'm glad we did for two reasons: I now know that administering a community takes a lot of planning and effort -and- we've found wonderful friends and collaborators here in this wonderful community.  In my spare time I code, I'm a musician, and I travel around the US and the world supporting my kids' dance and musical talents.",
+      "color": 16711680,
+      "fields": [
         {
-            "color": 16711680,
-            "fields": [
-                {
-                    "name": "nt4cats",
-                    "value": "Hello, I'm Drew. I'm a husband and father of two (one in college, one in high-school) who makes his living as a technology leader.  I first heard of Discord soon after I founded /r/Crostini.  We were looking for a platform we could use to provide live help to other people in the community who were learning about and making discoveries on Crostini.  My co-moderator <@102400513684819968> is a gamer and knew Discord well.  <@102400513684819968> reached out to the established /r/ChromeOS Discord admins and pitched the idea of partnering with them instead of going through the effort to stand up and administer our own server.  I'm glad we did for two reasons: I now know that administering a community takes a lot of planning and effort -and- we've found wonderful friends and collaborators here in this wonderful community.  In my spare time I code, I'm a musician, and I travel around the US and the world supporting my kids' dance and musical talents."
-                },
-        		{
-        			"name": "Location",
-        			"value": "Philadelphia, PA - USA"
-        		},
-                {
-                	"name": "Position",
-                	"value": "<@&370543697198317579> <@&253910724936466434> <@&463699644757704714>"
-                }
-            ],
-            "thumbnail": {
-                "url": "https://slim.ovh/cros-webhooks/img/nt4cats.jpg"
-            }
+          "name": "Location",
+          "value": "Philadelphia, PA - USA"
+        },
+        {
+          "name": "Position",
+          "value": "<@&370543697198317579> <@&253910724936466434> <@&463699644757704714>"
         }
-    ]
+      ],
+      "thumbnail": {
+        "url": "https://slim.ovh/cros-webhooks/img/nt4cats.jpg"
+      }
+    }
+  ]
 }

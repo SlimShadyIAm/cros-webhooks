@@ -1,26 +1,24 @@
 {
-    "username": "r/ChromeOS Moderators",
-    "avatar_url": "https://slim.ovh/cros-webhooks/img/logo.png",
-    "embeds": [
+  "username": "r/ChromeOS Moderators",
+  "avatar_url": "https://slim.ovh/cros-webhooks/img/logo.png",
+  "embeds": [
+    {
+      "title": "Skylar Taylor-Barrick",
+      "description": "Hi! I'm Skylar, and I'm a front-end engineer and non-profit founder in the San Francisco Bay Area, CA.  \n\nI started using Discord as a way to chat with friends while gaming, and I've realized that the communities offered are an incredible resource.I started exploring Chrome OS as an alternative to macOS, and ended up loving it! It served as a gateway for me getting more into desktop linux.\n\nI currently run Kubuntu 19.04 on my Google Pixelbook, with a Chrome OS Dual Boot.\n\nIn my spare time, I binge an incredible amount of reality television, tinker with my smart home, and play with my cute dog, Panda (you can ask for pics).",
+      "color": 4359668,
+      "fields": [
         {
-            "color": 4359668,
-            "fields": [
-                {
-                    "name": "Skylar Taylor-Barrick",
-                    "value": "Hi! I'm Skylar, and I'm a front-end engineer and non-profit founder in the San Francisco Bay Area, CA.  \n\nI started using Discord as a way to chat with friends while gaming, and I've realized that the communities offered are an incredible resource.I started exploring Chrome OS as an alternative to macOS, and ended up loving it! It served as a gateway for me getting more into desktop linux.\n\nI currently run Kubuntu 19.04 on my Google Pixelbook, with a Chrome OS Dual Boot.\n\nIn my spare time, I binge an incredible amount of reality television, tinker with my smart home, and play with my cute dog, Panda (you can ask for pics)."
-                },
-            {
-              "name": "Location",
-              "value": "SF Bay Area, USA"
-            },
-                {
-                  "name": "Position",
-                  "value": "<@&253910724936466434>"
-                }
-            ],
-            "thumbnail": {
-                "url": "https://slim.ovh/cros-webhooks/img/skylar.jpg"
-            }
+          "name": "Location",
+          "value": "SF Bay Area, USA"
+        },
+        {
+          "name": "Position",
+          "value": "<@&253910724936466434>"
         }
-    ]
+      ],
+      "thumbnail": {
+        "url": "https://slim.ovh/cros-webhooks/img/skylar.jpg"
+      }
+    }
+  ]
 }

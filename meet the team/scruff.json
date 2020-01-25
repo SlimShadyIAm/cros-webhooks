@@ -1,26 +1,24 @@
 {
-    "username": "r/ChromeOS Moderators",
-    "avatar_url": "https://slim.ovh/cros-webhooks/img/logo.png",
-    "embeds": [
+  "username": "r/ChromeOS Moderators",
+  "avatar_url": "https://slim.ovh/cros-webhooks/img/logo.png",
+  "embeds": [
+    {
+      "title": "McScruff",
+      "description": "Hi all, I'm Scruff, 32 and The English Mod.  I have a Lenovo 500e which i use for my day to day work needs, I got this model for it's battery life/Android Apps/Crostini.  Being a Linux user for over 15 years, this made it a very smooth transition.\n\nIn my day to day job I am a Publican, so if we are chatting and I go silent, it's more than likely work.\n\nFeel free to @ me if you need me, I wll get back to you as soon as possible.",
+      "color": 4359668,
+      "fields": [
         {
-            "color": 4359668,
-            "fields": [
-                {
-                    "name": "McScruff",
-                    "value": "Hi all, I'm Scruff, 32 and The English Mod.  I have a Lenovo 500e which i use for my day to day work needs, I got this model for it's battery life/Android Apps/Crostini.  Being a Linux user for over 15 years, this made it a very smooth transition.\n\nIn my day to day job I am a Publican, so if we are chatting and I go silent, it's more than likely work.\n\nFeel free to @ me if you need me, I wll get back to you as soon as possible."
-                },
-            {
-              "name": "Location",
-              "value": "Kent, England"
-            },
-                {
-                  "name": "Position",
-                  "value": "<@&253910724936466434>"
-                }
-            ],
-            "thumbnail": {
-                "url": "https://slim.ovh/cros-webhooks/img/mcscruff.jpg"
-            }
+          "name": "Location",
+          "value": "Kent, England"
+        },
+        {
+          "name": "Position",
+          "value": "<@&253910724936466434>"
         }
-    ]
+      ],
+      "thumbnail": {
+        "url": "https://slim.ovh/cros-webhooks/img/mcscruff.jpg"
+      }
+    }
+  ]
 }
