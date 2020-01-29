@@ -1,15 +1,11 @@
 {
     "username": "Botty McBotface",
-    "avatar_url": "https://images-ext-1.discordapp.net/external/jH0h_qtNabgd13ayY8t6g-Bas_DmN8indWrPih9Fy6M/%3Fsize%3D128/https/cdn.discordapp.com/avatars/520047158104424488/2db46e21fb3adee7a550a9c01394adc2.png",
+    "avatar_url": "https://images-ext-2.discordapp.net/external/V9URrI1gXojhq-gIJbcFTarZZY9FhVNd-XbLX8qm9cY/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/242730576195354624/ff8a6e873c18c43157053352df8c87c7.png?width=662&height=662",
     "embeds": [
       {
         "color": 7506394,
         "title": "Update roles",
-        "description": "We also have several roles for getting updates about announcements from the staff, new sales on ChromeOS devices, and updates to ChromeOS (channel specific). To start getting updates, react by clicking on the relevant emoji below:\n:mega:: <@&550381791257690112> (rare ping, maybe once a month)\n:money_with_wings:: <@&550081231266643968> (this can happen whenever a new deal is posted)\n:regional_indicator_s:: <@&550382017213104147> (About 1 ping every 2-3 weeks, when stable updates release)\n:regional_indicator_b:: <@&550401535578996754> (About 1 ping every week, when beta updates release)\n:regional_indicator_d:: <@&550401653732540417> (About 2 pings every week, when developer updates release)",
-        "footer": {
-            "icon_url": "https://images-ext-1.discordapp.net/external/Bo1_eDWOiXX2YZXFFp2Ud0UNMynSP49GipieDLhSpQk/https/cdn.discordapp.com/avatars/275813801792634880/319ba137f32942c5472ac23cdb979dc4.png?width=116&height=116",
-            "text": "Powered by https://zira.ovh, the best reaction roles bot out there!"
-          }
+        "description": "We also have several roles for getting updates about announcements from the staff, new sales on ChromeOS devices, and updates to ChromeOS (channel specific). To start getting updates, react by clicking on the relevant emoji below:\n:mega:: <@&550381791257690112> (rare ping, maybe once a month)\n:money_with_wings:: <@&550081231266643968> (this can happen whenever a new deal is posted)\n:regional_indicator_s:: <@&550382017213104147> (About 1 ping every 2-3 weeks, when stable updates release)\n:regional_indicator_b:: <@&550401535578996754> (About 1 ping every week, when beta updates release)\n:regional_indicator_d:: <@&550401653732540417> (About 2 pings every week, when developer updates release)"
       }
     ]
   }
