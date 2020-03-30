@@ -1,0 +1,24 @@
+{
+  "username": "r/ChromeOS Moderators",
+  "avatar_url": "https://slim.rocks/cros-webhooks/img/logo.png",
+  "embeds": [
+    {
+      "title": "k.duke",
+      "description": "Hey there! I'm Kent; I'm 22 years old and I'm your average boring college student who has a huge passion with UX/UI design, technology, and chickens. Some of you probably know me as kentexcitebot or Kent D. through the mockups I designed, like Crostini setup, ChromeOS White UI, and others. I was credited several times by various tech journalists like Chrome Unboxed. I also dive deep into the chromium code and talk in-depth about interesting stuff being worked on by the developers. I enjoy helping others and am working to become part of the Google Product Experts Program.\n\nI started my Chrome OS journey back in late 2017 when my Dell Studio 1535 threw in the towel during my English essay I put off to the last minute (I lost the entire document!). When I saw the Pixelbook on display at Google's pop-up store in Los Angeles around October, I instantly fell in love with it. In a matter of a couple days, I ordered it. Being a Ubuntu user for 4 years and Fedora Linux for 5, Chrome OS felt like home. I've been documenting and researching the technical underpinnings of Chrome OS since.\n\nI joined r/ChromeOS 's Discord server in 2019 when a member in my private Chrome OS Telegram channel (now 47 members) encouraged me to share my knowledge to a larger audience. Although I have made a few posts on the r/ChromeOS subreddit, I was hesitant to join the Discord group. One day, I decided to hop on, and that's when I realized communities like this one offers incredible learning value. I don't regret joining at all!\n\nI currently daily-drive a Google Pixel Slate and live in the Squid app, literally. It's the best note-taking and drawing app out there; believe me, I tried all of them.\n\nI'm usually always pretty busy, but when I have free time, I design mockups, learn about the stock market, and document and research content in the Chromium source code. I also LOVE chickens!! I socialize with my birds almost every day - they're so cute!",
+      "color": 1023320,
+      "fields": [
+        {
+          "name": "Location",
+          "value": "Moorpark, CA, USA"
+        },
+        {
+          "name": "Position",
+          "value": "<@&360487762484527116>"
+        }
+      ],
+      "thumbnail": {
+        "url": "https://slim.rocks/cros-webhooks/img/kent.jpg"
+      }
+    }
+  ]
+}
