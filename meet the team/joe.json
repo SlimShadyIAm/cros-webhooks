@@ -1,0 +1,24 @@
+{
+  "username": "r/ChromeOS Moderators",
+  "avatar_url": "https://slim.rocks/cros-webhooks/img/logo.png",
+  "embeds": [
+    {
+      "title": "Joe",
+      "description":"Hey, I’m Joe! I’m just the average tech enthusiast that enjoys helping and tinkering with all of the major platforms (macOS, Windows, ChromeOS, etc.) I also have some experience in discord.js and Discord bot development.\n\nI joined Discord in mid 2017 from overhearing my brother talking about it, but didn’t really enjoy it until sometime in 2018. You’ll probably see me helping people in <#385358187513118721> , helping <@396795612307128322> with his research, or posting my cat in <#361064680996864010> .\n\nI got my first (non-managed) Chromebook as a gift in 2019. (It's still my daily driver) While exploring what all I could do with it, I came across r/ChromeOS, and eventually its Discord server in late January. I’ve since become a ChromeOS enthusiast that enjoys helping everyone with their Chromebook issues.\n\nFeel free to message me about anything (if I’m not on dnd), whether it’s asking a question or just saying hi. I’m glad I can be on the team, and I hope I can bring lots more for a while to come.",
+      "color": 1023320,
+      "fields": [
+        {
+          "name": "Location",
+          "value": "Central PA, USA"
+        },
+        {
+          "name": "Position",
+          "value": "<@&360487762484527116>"
+        }
+      ],
+      "thumbnail": {
+        "url": "https://slim.rocks/cros-webhooks/img/joe.jpg"
+      }
+    }
+  ]
+}
