@@ -1,0 +1,10 @@
+{
+    "username": "r/ChromeOS Moderators",
+    "avatar_url": "https://raw.githubusercontent.com/SlimShadyIAm/cros-webhooks/master/img/logo.png",
+    "embeds": [
+        {
+            "color": 5016821,
+            "description": "Hello, you're in timeout.\n\nHere is some soothing music, play it while you read the rest of this: https://www.youtube.com/watch?v=V1RPi2MYptM\n\nIf you're here that means you were pinging or begging people for HELP NOW!!!!!!!!.  This server is run and staffed by volunteers.  We have families, jobs, and even have other hobbies.  Also, we live literally around the world, but don't have 24x7 coverage -- we do sleep.  Don't doubt that this server exists because the people here like helping people with problems, but we cannot always provide immediate help.  If you're in a hurry use the $helpers command to ping our volunteers, and then please be patient and someone will respond when we can.\n\nPlease use this 15-minute timeout to relax and find your peaceful place.  You'll be removed from timeout automatically when your 15 minutes is over."
+        }
+    ]
+}
