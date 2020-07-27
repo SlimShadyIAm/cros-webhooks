@@ -1,11 +1,11 @@
 {
-    "username": "Botty McBotface",
-    "avatar_url": "https://images-ext-2.discordapp.net/external/V9URrI1gXojhq-gIJbcFTarZZY9FhVNd-XbLX8qm9cY/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/242730576195354624/ff8a6e873c18c43157053352df8c87c7.png?width=662&height=662",
-    "embeds": [
-      {
-        "color": 7506394,
-        "title": "Update roles",
-        "description": "We also have several roles for getting updates about announcements from the staff, new sales on ChromeOS devices, and updates to ChromeOS (channel specific). To start getting updates, react by clicking on the relevant emoji below:\n:mega:: <@&550381791257690112> (rare ping, maybe once a month)\n:money_with_wings:: <@&550081231266643968> (this can happen whenever a new deal is posted)\n:regional_indicator_s:: <@&550382017213104147> (About 1 ping every 2-3 weeks, when stable updates release)\n:regional_indicator_b:: <@&550401535578996754> (About 1 ping every week, when beta updates release)\n:regional_indicator_d:: <@&550401653732540417> (About 2 pings every week, when developer updates release)"
-      }
-    ]
-  }
+  "username": "r/ChromeOS Moderators",
+  "avatar_url": "https://slim.rocks/cros-webhooks/img/logo.png",
+  "embeds": [
+    {
+      "color": 7506394,
+      "title": "ChromeOS release channel roles",
+      "description": "We have roles for all 4 of the ChromeOS release channels, as well as a role for Developer Mode. For the Stable, Beta and Developer channels, you will also be pinged when a blog post for an update is pushed.\n\nTo assign yourself a role, react by clicking on the relevant emoji below.\n\n **Roles with update notifications**:\n:regional_indicator_s:: <@&550382017213104147> (About 1 ping every 2-3 weeks, when stable updates release)\n:regional_indicator_b:: <@&550401535578996754> (About 1 ping every week, when beta updates release)\n:regional_indicator_d:: <@&550401653732540417> (About 2 pings every week, when developer updates release)\n\n**Roles without updates:\n**:regional_indicator_c:: <@&701055720468119593>\n:hammer_pick:: <@&699314025011478579>"
+    }
+  ]
+}

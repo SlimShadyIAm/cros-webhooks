@@ -1,11 +1,11 @@
 {
-    "username": "Botty McBotface",
-    "avatar_url": "https://images-ext-2.discordapp.net/external/V9URrI1gXojhq-gIJbcFTarZZY9FhVNd-XbLX8qm9cY/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/242730576195354624/ff8a6e873c18c43157053352df8c87c7.png?width=662&height=662",
-    "embeds": [
-      {
-        "color": 7506394,
-        "title": "Helper role",
-        "description": "Are you technologically savvy and want to help out your fellow community members in <#385358187513118721>? Assign yourself the <@&385360131631874048> role. Users can ping this when they need urgent help and no one is responding. Click the :regional_indicator_h: emoji below to assign this to yourself."
-      }
-    ]
-  }
+  "username": "r/ChromeOS Moderators",
+  "avatar_url": "https://slim.rocks/cros-webhooks/img/logo.png",
+  "embeds": [
+    {
+      "color": 7506394,
+      "title": "Other roles",
+      "description": "**Helper role**\nAre you technologically savvy and motivated to help out your fellow community members in <#385358187513118721>? Click the :regional_indicator_h: to assign yourself the <@&385360131631874048> role. Users can ping this when they need urgent help.\n\n**Announcements role**\nInterested in getting notifcations on changes to the server? Click the :mega: to assign yourself the <@&550381791257690112> role.\n\n**Deals role**\nWant to know when there's a new Chromebook related deal? Click the :money_with_wings: to assign yourself the <@&550081231266643968> role.\n\n**Chromium role**\nClick the <:chromium:524685823912706055> to assign yourself the <@&701059047629127789> role."
+    }
+  ]
+}
