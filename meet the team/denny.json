@@ -1,6 +1,6 @@
 {
   "username": "r/ChromeOS Moderators",
-  "avatar_url": "https://slim.rocks/cros-webhooks/img/logo.png",
+  "avatar_url": "https://raw.githubusercontent.com/SlimShadyIAm/cros-webhooks/master/img/logo.png",
   "embeds": [
     {
       "title": "DennyL",
@@ -17,7 +17,7 @@
         }
       ],
       "thumbnail": {
-        "url": "https://slim.rocks/cros-webhooks/img/denny.jpg"
+        "url": "https://raw.githubusercontent.com/SlimShadyIAm/cros-webhooks/master/img/denny.jpg"
       }
     }
   ]
