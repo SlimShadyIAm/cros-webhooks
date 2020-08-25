@@ -1,11 +1,11 @@
 {
   "username": "r/ChromeOS Moderators",
-  "avatar_url": "https://slim.rocks/cros-webhooks/img/logo.png",
+  "avatar_url": "https://raw.githubusercontent.com/SlimShadyIAm/cros-webhooks/master/img/logo.png",
   "embeds": [
     {
       "color": 7506394,
       "title": "ChromeOS release channel roles",
-      "description": "We have roles for all 4 of the ChromeOS release channels, as well as a role for Developer Mode. For the Stable, Beta and Developer channels, you will be pinged when a blog post for an update and when we publish channel-specific content.\n\nTo assign yourself a role, react by clicking on the relevant emoji below.\n\n **Roles with update notifications**:\n:regional_indicator_s:: <@&550382017213104147> (About 2 pings every 2-3 weeks, when stable updates release)\n:regional_indicator_b:: <@&550401535578996754> (About 2 pings every week, when beta updates release)\n:regional_indicator_d:: <@&550401653732540417> (About 4 pings every week, when developer updates release)\n\n**Roles without updates:\n**:regional_indicator_c:: <@&701055720468119593>\n:hammer_pick:: <@&699314025011478579>"
+      "description": "We have roles for all 4 of the ChromeOS release channels, as well as a role for Developer Mode. For the Stable, Beta and Developer channels, you will be pinged when a blog post for an update and when we publish channel-specific content.\n\nTo assign yourself a role, react by clicking on the relevant emoji below.\n\n **Roles with update notifications**:\n:regional_indicator_s: <@&550382017213104147> (About 2 pings every 2-3 weeks, when stable updates release)\n:regional_indicator_b: <@&550401535578996754> (About 2 pings every week, when beta updates release)\n:regional_indicator_d: <@&550401653732540417> (About 4 pings every week, when developer updates release)\n\n**Roles without updates:\n**:regional_indicator_c: <@&701055720468119593>\n:hammer_pick: <@&699314025011478579>"
     }
   ]
 }
