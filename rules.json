@@ -84,6 +84,10 @@
           "value": "Don't be a source of misinformation.  We have had too many cases of people offering incorrect advice.  We're not going to ban someone for making a mistake, but we will not tolerate users acting like they know what they are doing when they do not.  Repeated or serious violations will result in a ban."
         },
         {
+          "name": "Rule 14",
+          "value": "Controversial non-technical discussions and baiting are unwelcome here.  Examples include politics and religion, but really any discussion that is likely to result in a toxic or combative response has no place here.  Repeated, intentional, or serious violations will result in a ban."
+        },
+        {
           "name": "Note:",
           "value": "Behavior that is perceived as trolling will be dealt with according to the severity\n\nIf you spot any serious infractions of the rules and no moderator seems to be active, please notify us by messaging <@671856714114400267>.\n\nModeration decisions are at the discretion of the moderator themself. All decisions are final and may not be contested."
         }
