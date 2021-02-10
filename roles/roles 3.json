@@ -1,0 +1,11 @@
+{
+  "username": "r/ChromeOS Moderators",
+  "avatar_url": "https://raw.githubusercontent.com/SlimShadyIAm/cros-webhooks/master/img/logo.png",
+  "embeds": [
+    {
+      "color": 7506394,
+      "title": "ChromeOS hardware platform roles",
+      "description": "We have roles for all 3 of the ChromeOS-supported hardware platforms.\n\nTo assign yourself a role, react by clicking on the relevant emoji below.\n\n<:Intel:808874064797761557> <@&804747235019063328>\n<:AMD:804747965133881424> <@&804747216387965020>\n<:ARM:804750303441715200> <@&804747351638016071>\n"
+    }
+  ]
+}
