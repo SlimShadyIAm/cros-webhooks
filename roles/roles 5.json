@@ -1,0 +1,11 @@
+{
+  "username": "r/ChromeOS Moderators",
+  "avatar_url": "https://raw.githubusercontent.com/SlimShadyIAm/cros-webhooks/master/img/logo.png",
+  "embeds": [
+    {
+      "color": 7506394,
+      "title": "Personal Pronoun Roles",
+      "description": "It isn't always easy to remember how to address someone respectfully.  These roles allow our users to let others know their personal pronouns.\n\nTo assign yourself a role, react by clicking on the relevant emoji below.\n\n:blue_circle: <@&925846791142928475>\n:yellow_circle: <@&925846979018358814>\n:green_circle: <@&925847059830046780>\n:purple_circle: <@&925847156630355988>\n"
+    }
+  ]
+}
