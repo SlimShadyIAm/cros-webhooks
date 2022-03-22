@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ALL_USERS="saragon"
+ALL_USERS="nt4 slim cam spore denny skylar kent ryan phene zate scruff saragon"
 for i in $ALL_USERS
 do
 	echo "Publishing $i..."
