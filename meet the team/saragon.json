@@ -1,0 +1,24 @@
+{
+  "username": "r/ChromeOS Moderators",
+  "avatar_url": "https://raw.githubusercontent.com/SlimShadyIAm/cros-webhooks/master/img/logo.png",
+  "embeds": [
+    {
+      "title": "Saragon",
+      "description": "Hi I'm Raven,\n\nI first used chromeOS in school and liked how cost effective the OS was so my first personal computer was a chromebook around 2015 years ago.\n\nI've been on discord since 2016 and have built and moderated several personal servers and communities.\n\nCurrently I am learning Java against my will, but still prefer using python and admire golang from afar.\n\n",
+      "color": 4359668,
+      "fields": [
+        {
+          "name": "Location",
+          "value": "Bay Area, CA USA"
+        },
+        {
+          "name": "Position",
+          "value": "<@&360487762484527116>"
+        }
+      ],
+      "thumbnail": {
+        "url": "https://raw.githubusercontent.com/SlimShadyIAm/cros-webhooks/master/img/saragon.jpg"
+      }
+    }
+  ]
+}
