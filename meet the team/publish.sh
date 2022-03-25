@@ -2,7 +2,7 @@
 
 if [ $# -eq 0 ]
 then
-	ALL_USERS="nt4 slim cam spore denny skylar kent ryan phene zate scruff saragon"
+	ALL_USERS="nt4 slim cam spore denny skylar kent rye phene zate scruff saragon"
 else
 	ALL_USERS="$@"
 fi
