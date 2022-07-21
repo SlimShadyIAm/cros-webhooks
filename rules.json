@@ -5,7 +5,7 @@
     {
       "color": 5016821,
       "image": {
-        "url": "https://cdn.discordapp.com/attachments/451414078343348225/454938034283216896/r_chromeos_discord_server_logo.png"
+        "url": "https://raw.githubusercontent.com/SlimShadyIAm/cros-webhooks/master/rules/r_chromeos_discord_server_logo.png"
       }
     },
     {
@@ -15,7 +15,7 @@
     {
       "color": 1679711,
       "image": {
-        "url": "https://cdn.discordapp.com/attachments/451414078343348225/454938198402138112/overview.png"
+        "url": "https://raw.githubusercontent.com/SlimShadyIAm/cros-webhooks/master/rules/overview.png"
       }
     },
     {
@@ -25,7 +25,7 @@
     {
       "color": 14569797,
       "image": {
-        "url": "https://cdn.discordapp.com/attachments/451414078343348225/454938236628762634/guidelines.png"
+        "url": "https://raw.githubusercontent.com/SlimShadyIAm/cros-webhooks/master/rules/guidelines.png"
       }
     },
     {
@@ -96,7 +96,7 @@
     {
       "color": 16432133,
       "image": {
-        "url": "https://cdn.discordapp.com/attachments/451414078343348225/492380422916014080/partnered_servers.png"
+        "url": "https://raw.githubusercontent.com/SlimShadyIAm/cros-webhooks/master/rules/partnered_servers.png"
       }
     },
     {
