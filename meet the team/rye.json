@@ -4,7 +4,7 @@
   "embeds": [
     {
       "title": "Rye",
-      "description": "Hiya, I'm Rye. I'm 17 and just your average tinkerer who likes helping others (and banning - lots of banning). I've been on Discord since 2019 but only became invested in early 2020 when myself and a small handful of friends I had met online decided to migrate.\n\nI like Chrome OS and my Chromebook is my usual laptop for lying in bed or on the couch and chilling out. My current daily driver is a HP Chromebook x360 14c (hatch). I've been on the r/ChromeOS subreddit for a few years and I've been a mod on it and subsequently this server since late 2020.\n\nI love motorsport, particularly F1 and Extreme E. In my free time I can normally be found around our farm cuddling with my sheep (you can ask me for pics), breaking something, or stressing about schoolwork and university applications.\n\nAlways feel free to ping me if needed - I'll be around whenever I get a chance.",
+      "description": "Hiya, I'm Rye. I'm 18 and just your average tinkerer who likes helping others (and banning - lots of banning). I've been on Discord since 2019 but only became invested in early 2020 when myself and a small handful of friends I had met online decided to migrate.\n\nI like Chrome OS (sometimes) and my Chromebook is my usual laptop for lying in bed or on the couch and chilling out. My current daily driver is a HP Chromebook x360 14c (hatch). I also own a Framework laptop. I've been on the r/ChromeOS subreddit for a few years and I've been a mod on it and subsequently this server since late 2020.\n\nI love motorsport, particularly F1 and Extreme E. In my free time I can normally be found around our farm cuddling with my sheep (you can ask me for pics), breaking something, or stressing about schoolwork and university applications.\n\nAlways feel free to ping me if needed - I'll be around whenever I get a chance.",
       "color": 4359668,
       "fields": [
         {
@@ -17,7 +17,7 @@
         }
       ],
       "thumbnail": {
-        "url": "https://raw.githubusercontent.com/SlimShadyIAm/cros-webhooks/master/img/ryan.png"
+        "url": "https://raw.githubusercontent.com/SlimShadyIAm/cros-webhooks/master/img/rye.png"
       }
     }
   ]
