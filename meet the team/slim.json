@@ -4,12 +4,12 @@
   "embeds": [
     {
       "title": "SlimShadyIAm",
-      "description": "Hey! I'm Aamir; I'm a graduate student in computer science.\n\nI've been an avid Discord user since October of 2015; I initially joined to use Discord use as a Skype replacement to talk to my friends while playing games, like many have in the past. Since then I've become infatuated with it, becoming active in large servers such as r/PCMasterRace's Discord server, my university's gaming group, and other large subreddit communities.\n\nI bought my first Chromebook in 2016 and immediately fell in love with it, and in December of 2016 I had the idea to create a Discord community for it, as there was no such community at the time. It quickly got picked up as the official r/chromeos server, and I can only attribute this success to you guys, the community.\n\nIn my free time I enjoy grinding away at Overwatch, hanging out with friends and watching Netflix.",
+      "description": "Howdy, I'm Aamir! I’m a 23 year old graduate student studying computer science and engineering in Denmark.  I originally founded this server way back in (2017?) when I got my first Chromebook because there was no Discord server for it, and later it became affiliated with the subreddit as well. Eventually I had to get a different laptop for university and wanted to focus on other things, so I handed the server off to nt4cats and here we are today.\n\nIn my free time I do absolutely nothing except play Overwatch and stare at my phone. Sometimes I like to go bouldering.",
       "color": 2123412,
       "fields": [
         {
           "name": "Location",
-          "value": "The Netherlands"
+          "value": "Denmark"
         },
         {
           "name": "Position",
